@@ -1,0 +1,15 @@
+{
+  "name": "blogadmin",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "dependencies": {
+    "bulma": "^0.2.3",
+    "electron": "^1.4.6",
+    "promise-polyfill": "^6.0.2",
+    "whatwg-fetch": "^2.0.0"
+  }
+}
